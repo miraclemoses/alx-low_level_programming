@@ -12,7 +12,7 @@ int main(void)
 {
 	int i, j, k;
 
-	for (i = 0; i < 100; i++)
+	for (i = 1; i < 90; i++)
 	{
 		j = i / 10;
 		k = i % 10;
