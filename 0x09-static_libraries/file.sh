@@ -1,0 +1,21 @@
+#!/bin/bash
+touch 0-isupper.o
+touch 0-memset.o
+touch 0-strcat.o
+touch 1-isdigit.o
+touch 1-memcpy.o
+touch 1-strncat.o
+touch 100-atoi.o
+touch 2-strchr.o
+touch 2-strlen.o
+touch 2-strncpy.o
+touch 3-islower.o
+touch 3-puts.o
+touch 3-strcmp.o
+touch 3-strspn.o
+touch 4-isalpha.o
+touch 4-strpbrk.o
+touch 5-strstr.o
+touch 6-abs.o
+touch 9-strcpy.o
+touch _putchar.o
